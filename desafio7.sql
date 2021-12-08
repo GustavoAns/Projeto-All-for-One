@@ -1,0 +1,1 @@
+select id from northwind.products where id > 94 order by id DESC;
